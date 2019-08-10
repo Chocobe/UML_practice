@@ -1,20 +1,20 @@
-package chapter_02_class.practice_02_04;
+package chapter_03_instance.practice_02_04;
 
 @SuppressWarnings("unused")
 class TV_test {
 	public static void main(String[] args) {
-		TV_instance TV = new TV_instance("TV2008005", "LCDTV", "보르도");
+		Product TV = new Product("TV2008005", "LCDTV", "보르도");
 		
 	}
 }
 
 @SuppressWarnings("unused")
-public class TV_instance {
+public class Product {
 	private String productId;
 	private String productName;
 	private String brandName;
 	
-	public TV_instance(
+	public Product(
 					String productId, String productName, String brandName) {
 		this.productId = productId;
 		this.productName = productName;
