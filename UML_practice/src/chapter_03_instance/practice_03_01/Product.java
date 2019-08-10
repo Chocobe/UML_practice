@@ -1,4 +1,4 @@
-package chapter_03_instance.practice_02_04;
+package chapter_03_instance.practice_03_01;
 
 @SuppressWarnings("unused")
 class TV_test {
