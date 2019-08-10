@@ -437,6 +437,34 @@
 							]
 						}
 					]
+				},
+				{
+					"_type": "UMLObject",
+					"_id": "AAAAAAFsfBs6ipKWymA=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Object1",
+					"slots": [
+						{
+							"_type": "UMLSlot",
+							"_id": "AAAAAAFsfBtcbZKzlmE=",
+							"_parent": {
+								"$ref": "AAAAAAFsfBs6ipKWymA="
+							},
+							"name": "Slot1",
+							"type": ""
+						},
+						{
+							"_type": "UMLSlot",
+							"_id": "AAAAAAFsfBvZtZK5fqc=",
+							"_parent": {
+								"$ref": "AAAAAAFsfBs6ipKWymA="
+							},
+							"name": "Slot2",
+							"type": ""
+						}
+					]
 				}
 			]
 		}

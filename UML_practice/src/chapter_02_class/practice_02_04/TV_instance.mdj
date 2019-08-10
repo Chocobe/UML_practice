@@ -1,0 +1,258 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLObjectView",
+							"_id": "AAAAAAFsfB1hYTRRGg8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"model": {
+								"$ref": "AAAAAAFsfB1hYTRPIhQ="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAFsfB1hYTRSpck=",
+									"_parent": {
+										"$ref": "AAAAAAFsfB1hYTRRGg8="
+									},
+									"model": {
+										"$ref": "AAAAAAFsfB1hYTRPIhQ="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFsfB1hYTRTCFs=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRSpck="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFsfB1hYTRUH38=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRSpck="
+											},
+											"font": "Arial;13;1",
+											"left": 125,
+											"top": 127,
+											"width": 231,
+											"height": 13,
+											"underline": true,
+											"text": "TV: Product"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFsfB1hYTRVp2I=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRSpck="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 73.67724609375,
+											"height": 13,
+											"text": "(from Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFsfB1hYTRWsFs=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRSpck="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 120,
+									"top": 120,
+									"width": 241,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFsfB1hYTRTCFs="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAFsfB1hYTRUH38="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAFsfB1hYTRVp2I="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFsfB1hYTRWsFs="
+									}
+								},
+								{
+									"_type": "UMLSlotCompartmentView",
+									"_id": "AAAAAAFsfB1hYTRXZ3Q=",
+									"_parent": {
+										"$ref": "AAAAAAFsfB1hYTRRGg8="
+									},
+									"model": {
+										"$ref": "AAAAAAFsfB1hYTRPIhQ="
+									},
+									"subViews": [
+										{
+											"_type": "UMLSlotView",
+											"_id": "AAAAAAFsfB3fVzRyGmU=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRXZ3Q="
+											},
+											"model": {
+												"$ref": "AAAAAAFsfB3fIDRvmqg="
+											},
+											"font": "Arial;13;0",
+											"left": 125,
+											"top": 150,
+											"width": 231,
+											"height": 13,
+											"text": "-productId: String = \"TV2008005\"",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLSlotView",
+											"_id": "AAAAAAFsfB5OmjR6ZEY=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRXZ3Q="
+											},
+											"model": {
+												"$ref": "AAAAAAFsfB5OYDR3qMY="
+											},
+											"font": "Arial;13;0",
+											"left": 125,
+											"top": 165,
+											"width": 231,
+											"height": 13,
+											"text": "-productName: String = \"LCDTV\"",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLSlotView",
+											"_id": "AAAAAAFsfB6AdTSBF1g=",
+											"_parent": {
+												"$ref": "AAAAAAFsfB1hYTRXZ3Q="
+											},
+											"model": {
+												"$ref": "AAAAAAFsfB6AODR+9T4="
+											},
+											"font": "Arial;13;0",
+											"left": 125,
+											"top": 180,
+											"width": 231,
+											"height": 13,
+											"text": "-brandName: String = \"보르도\"",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 120,
+									"top": 145,
+									"width": 241,
+									"height": 53
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 120,
+							"top": 120,
+							"width": 241,
+							"height": 78,
+							"nameCompartment": {
+								"$ref": "AAAAAAFsfB1hYTRSpck="
+							},
+							"slotCompartment": {
+								"$ref": "AAAAAAFsfB1hYTRXZ3Q="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAFsfBx94TPjA6w=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Product"
+				},
+				{
+					"_type": "UMLArtifactInstance",
+					"_id": "AAAAAAFsfB0VADQmwpk=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "ArtifactInstance1"
+				},
+				{
+					"_type": "UMLObject",
+					"_id": "AAAAAAFsfB1hYTRPIhQ=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "TV",
+					"classifier": {
+						"$ref": "AAAAAAFsfBx94TPjA6w="
+					},
+					"slots": [
+						{
+							"_type": "UMLSlot",
+							"_id": "AAAAAAFsfB3fIDRvmqg=",
+							"_parent": {
+								"$ref": "AAAAAAFsfB1hYTRPIhQ="
+							},
+							"name": "productId",
+							"visibility": "private",
+							"type": "String",
+							"value": "\"TV2008005\""
+						},
+						{
+							"_type": "UMLSlot",
+							"_id": "AAAAAAFsfB5OYDR3qMY=",
+							"_parent": {
+								"$ref": "AAAAAAFsfB1hYTRPIhQ="
+							},
+							"name": "productName",
+							"visibility": "private",
+							"type": "String",
+							"value": "\"LCDTV\""
+						},
+						{
+							"_type": "UMLSlot",
+							"_id": "AAAAAAFsfB6AODR+9T4=",
+							"_parent": {
+								"$ref": "AAAAAAFsfB1hYTRPIhQ="
+							},
+							"name": "brandName",
+							"visibility": "private",
+							"type": "String",
+							"value": "\"보르도\""
+						}
+					]
+				}
+			]
+		}
+	]
+}
