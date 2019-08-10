@@ -3,6 +3,7 @@ package chapter_02_class.practice_02_02;
 /*
  * <2장. class> - 연습문제 2
  * Product 클래스 설계하기
+ * 
  * 속성	-productId	:	String	(제품번호)
  * 		-price		:	int		(가격)
  * 
