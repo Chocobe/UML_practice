@@ -1,4 +1,4 @@
-package chapter_05_information_hiding;
+package chapter_05_information_hiding.practice_05_01;
 
 public class Student {
 	private String name;
