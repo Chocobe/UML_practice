@@ -1,11 +1,11 @@
 # UML_practice
 
-* chapter_02_class - Å¬·¡½º¸¦ UML°ú ÄÚµå·Î ÀÛ¼ºÇÏ±â
+* chapter_02_class - í´ë˜ìŠ¤ë¥¼ UMLê³¼ ì½”ë“œë¡œ ì‘ì„±í•˜ê¸°
 
-* chapter_03_instance - °´Ã¼¸¦ UML°ú ÄÚµå·Î ÀÛ¼ºÇÏ±â
+* chapter_03_instance - ê°ì²´ë¥¼ UMLê³¼ ì½”ë“œë¡œ ì‘ì„±í•˜ê¸°
 
-* chatper_04_capsulation - Ä¸½¶È­
+* chatper_04_capsulation - ìº¡ìŠí™”
 
-* chapter_05_information_hiding - Á¤º¸Àº´Ğ
+* chapter_05_information_hiding - ì •ë³´ì€ë‹‰
 
-* chapter_06_message - ¸Ş½ÃÁö
+* chapter_06_message - ë©”ì‹œì§€

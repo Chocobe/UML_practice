@@ -1,14 +1,14 @@
 package chapter_02_class.practice_02_01;
 
 /*
- * <2Àå. class> - ¿¬½À¹®Á¦ 1
- * User Å¬·¡½º ¼³°èÇÏ±â
+ * <2ì¥. class> - ì—°ìŠµë¬¸ì œ 1
+ * User í´ë˜ìŠ¤ ì„¤ê³„í•˜ê¸°
  * 
- * ¼Ó¼º	-id 	: String (»ç¿ëÀÚ ID)
- * 		-pw 	: String (ºñ¹Ğ¹øÈ£)
- * 		-name	: String (ÀÌ¸§)
+ * ì†ì„±	-id 	: String (ì‚¬ìš©ì ID)
+ * 		-pw 	: String (ë¹„ë°€ë²ˆí˜¸)
+ * 		-name	: String (ì´ë¦„)
  * 
- * ¸Ş¼Òµå	+add(id : String, pw : String, name : String) : boolnea
+ * ë©”ì†Œë“œ	+add(id : String, pw : String, name : String) : boolnea
  * 		+delete(id : String, pw : String) : boolean
  * 		+update(id : String, pw : String, name : String) : boolean
  * 		+list(id : String, pw : String, name : String) : Vector<String>

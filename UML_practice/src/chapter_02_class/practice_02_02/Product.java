@@ -1,13 +1,13 @@
 package chapter_02_class.practice_02_02;
 
 /*
- * <2Àå. class> - ¿¬½À¹®Á¦ 2
- * Product Å¬·¡½º ¼³°èÇÏ±â
+ * <2ì¥. class> - ì—°ìŠµë¬¸ì œ 2
+ * Product í´ë˜ìŠ¤ ì„¤ê³„í•˜ê¸°
  * 
- * ¼Ó¼º	-productId	:	String	(Á¦Ç°¹øÈ£)
- * 		-price		:	int		(°¡°İ)
+ * ì†ì„±	-productId	:	String	(ì œí’ˆë²ˆí˜¸)
+ * 		-price		:	int		(ê°€ê²©)
  * 
- * ¸Ş¼Òµå	+addProduct(productId : String) : boolean
+ * ë©”ì†Œë“œ	+addProduct(productId : String) : boolean
  * 		+deleteProduct(productId : String) : boolean
  * 		-checkProduct(productId : String) : boolean
  */

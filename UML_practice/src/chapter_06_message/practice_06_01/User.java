@@ -1,6 +1,6 @@
 package chapter_06_message.practice_06_01;
 
-// Sequence DiagrameÀ» ÄÚµå·Î ±¸Çö
+// Sequence Diagrameì„ ì½”ë“œë¡œ êµ¬í˜„
 
 public class User {
 	public boolean add(String id, String pw, 

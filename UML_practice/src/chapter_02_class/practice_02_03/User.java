@@ -1,16 +1,16 @@
 package chapter_02_class.practice_02_03;
 
 /*
- * <2Àå. class> - ¿¬½À¹®Á¦ 3
- * User Å¬·¡½º ¼³°èÇÏ±â
+ * <2ì¥. class> - ì—°ìŠµë¬¸ì œ 3
+ * User í´ë˜ìŠ¤ ì„¤ê³„í•˜ê¸°
  * 
- * ¼Ó¼º	-userId : String (»ç¿ëÀÚ ID)
- * 		-pw		: String (ºñ¹Ğ¹øÈ£)
- * 		-name	: String (ÀÌ¸§)
- * 		-tel	: String (¿¬¶ôÃ³)
- * 		-addr	: String (ÁÖ¼Ò)
+ * ì†ì„±	-userId : String (ì‚¬ìš©ì ID)
+ * 		-pw		: String (ë¹„ë°€ë²ˆí˜¸)
+ * 		-name	: String (ì´ë¦„)
+ * 		-tel	: String (ì—°ë½ì²˜)
+ * 		-addr	: String (ì£¼ì†Œ)
  * 
- * ¸Ş¼Òµå	+regist(userId : String, pw : String, name : String,
+ * ë©”ì†Œë“œ	+regist(userId : String, pw : String, name : String,
  * 			    	name : String, tel : String, addr : String) : boolean
  * 		+update(userId : String, pw : String, name : String,
  * 					name : String, tel : String, addr : String) : boolean

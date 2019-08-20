@@ -1,13 +1,13 @@
 package chapter_02_class.practice_02_03;
 
 /*
- * <2Àå. class> - ¿¬½À¹®Á¦ 3
- * Account Å¬·¡½º ¼³°èÇÏ±â
+ * <2ì¥. class> - ì—°ìŠµë¬¸ì œ 3
+ * Account í´ë˜ìŠ¤ ì„¤ê³„í•˜ê¸°
  * 
- * ¼Ó¼º	-accountNumber	: String (°èÁÂ¹øÈ£)
- * 		-balance 		: int (ÀÜ¾×)
+ * ì†ì„±	-accountNumber	: String (ê³„ì¢Œë²ˆí˜¸)
+ * 		-balance 		: int (ì”ì•¡)
  * 
- * ¸Ş¼Òµå	+deposit(money : int) : int
+ * ë©”ì†Œë“œ	+deposit(money : int) : int
  * 		+withdraw(money : int) : int
  * 		+transfer(accountNumber : String, money : int) : boolean
  * 		+checkBalance() : int 

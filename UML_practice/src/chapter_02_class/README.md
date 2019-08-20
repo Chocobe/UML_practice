@@ -1,9 +1,9 @@
-# Class (Å¬·¡½º)
+# Class (í´ëž˜ìŠ¤)
 
-* practice_02_01 - UserÅ¬·¡½ºÀÇ UML°ú ÄÚµå ÀÛ¼º
-
-
-* practice_02_02 - ProductÅ¬·¡½ºÀÇ UML°ú ÄÚµå ÀÛ¼º
+* practice_02_01 - Userí´ëž˜ìŠ¤ì˜ UMLê³¼ ì½”ë“œ ìž‘ì„±
 
 
-* practice_02_03 - Account, UserÅ¬·¡½ºÀÇ UML°ú ÄÚµå ÀÛ¼º
+* practice_02_02 - Productí´ëž˜ìŠ¤ì˜ UMLê³¼ ì½”ë“œ ìž‘ì„±
+
+
+* practice_02_03 - Account, Userí´ëž˜ìŠ¤ì˜ UMLê³¼ ì½”ë“œ ìž‘ì„±

@@ -1,5 +1,5 @@
-# Capsulation (Ä¸½¶È­)
+# Capsulation (ìº¡ìŠí™”)
 
-* practice_04_01 - Product UMLÀ» ÄÚµå·Î ÀÛ¼ºÇÏ±â
+* practice_04_01 - Product UMLì„ ì½”ë“œë¡œ ìž‘ì„±í•˜ê¸°
 
-* ¹®Á¦ÀÇ Ç®ÀÌ¿¡ ´ëÇÑ ÀÌÇØ ºÎÁ·. (³²Àº ¹®Á¦´Â º¸·ù)
+* ë¬¸ì œì˜ í’€ì´ì— ëŒ€í•œ ì´í•´ ë¶€ì¡±. (ë‚¨ì€ ë¬¸ì œëŠ” ë³´ë¥˜)

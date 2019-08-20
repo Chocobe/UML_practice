@@ -3,7 +3,7 @@ package chapter_03_instance.practice_03_01;
 @SuppressWarnings("unused")
 class TV_test {
 	public static void main(String[] args) {
-		Product TV = new Product("TV2008005", "LCDTV", "∫∏∏£µµ");
+		Product TV = new Product("TV2008005", "LCDTV", "Î≥¥Î•¥ÎèÑ");
 		
 	}
 }
