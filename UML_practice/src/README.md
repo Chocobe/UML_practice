@@ -4,7 +4,7 @@
 
 UML 참고자료 : https://blog.naver.com/ya3344/221240390469
 
-* Generailization : 일반화 관계
+* Generalization : 일반화 관계
 
 	* 상속을 표현한다.
 	
